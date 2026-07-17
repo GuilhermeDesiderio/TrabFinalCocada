@@ -19,8 +19,6 @@ Recomendador de filmes combinando filtragem colaborativa (SVD) e filtragem basea
 
 `ratings.csv` não incluído (>800MB). Baixe em [MovieLens 32M](https://grouplens.org/datasets/movielens/32m/) e coloque na raiz do projeto.
 
-## Como rodar
-
 ## Autor
 
 Guilherme Desiderio — Ciência da Computação, IC/UFRJ
